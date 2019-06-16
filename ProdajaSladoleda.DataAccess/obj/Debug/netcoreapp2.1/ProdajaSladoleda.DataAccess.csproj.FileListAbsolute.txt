@@ -1,0 +1,14 @@
+D:\Skola\III godina\III trimestar\ASP\Prodaja sladoleda projekat\ProdajaSladoleda\ProdajaSladoleda.DataAccess\bin\Debug\netcoreapp2.1\ProdajaSladoleda.DataAccess.deps.json
+D:\Skola\III godina\III trimestar\ASP\Prodaja sladoleda projekat\ProdajaSladoleda\ProdajaSladoleda.DataAccess\bin\Debug\netcoreapp2.1\ProdajaSladoleda.DataAccess.runtimeconfig.json
+D:\Skola\III godina\III trimestar\ASP\Prodaja sladoleda projekat\ProdajaSladoleda\ProdajaSladoleda.DataAccess\bin\Debug\netcoreapp2.1\ProdajaSladoleda.DataAccess.runtimeconfig.dev.json
+D:\Skola\III godina\III trimestar\ASP\Prodaja sladoleda projekat\ProdajaSladoleda\ProdajaSladoleda.DataAccess\bin\Debug\netcoreapp2.1\ProdajaSladoleda.DataAccess.dll
+D:\Skola\III godina\III trimestar\ASP\Prodaja sladoleda projekat\ProdajaSladoleda\ProdajaSladoleda.DataAccess\bin\Debug\netcoreapp2.1\ProdajaSladoleda.DataAccess.pdb
+D:\Skola\III godina\III trimestar\ASP\Prodaja sladoleda projekat\ProdajaSladoleda\ProdajaSladoleda.DataAccess\bin\Debug\netcoreapp2.1\ProdajaSladoleda.Domain.dll
+D:\Skola\III godina\III trimestar\ASP\Prodaja sladoleda projekat\ProdajaSladoleda\ProdajaSladoleda.DataAccess\bin\Debug\netcoreapp2.1\ProdajaSladoleda.Domain.pdb
+D:\Skola\III godina\III trimestar\ASP\Prodaja sladoleda projekat\ProdajaSladoleda\ProdajaSladoleda.DataAccess\obj\Debug\netcoreapp2.1\ProdajaSladoleda.DataAccess.csprojAssemblyReference.cache
+D:\Skola\III godina\III trimestar\ASP\Prodaja sladoleda projekat\ProdajaSladoleda\ProdajaSladoleda.DataAccess\obj\Debug\netcoreapp2.1\ProdajaSladoleda.DataAccess.csproj.CoreCompileInputs.cache
+D:\Skola\III godina\III trimestar\ASP\Prodaja sladoleda projekat\ProdajaSladoleda\ProdajaSladoleda.DataAccess\obj\Debug\netcoreapp2.1\ProdajaSladoleda.DataAccess.AssemblyInfoInputs.cache
+D:\Skola\III godina\III trimestar\ASP\Prodaja sladoleda projekat\ProdajaSladoleda\ProdajaSladoleda.DataAccess\obj\Debug\netcoreapp2.1\ProdajaSladoleda.DataAccess.AssemblyInfo.cs
+D:\Skola\III godina\III trimestar\ASP\Prodaja sladoleda projekat\ProdajaSladoleda\ProdajaSladoleda.DataAccess\obj\Debug\netcoreapp2.1\ProdajaSladoleda.DataAccess.csproj.CopyComplete
+D:\Skola\III godina\III trimestar\ASP\Prodaja sladoleda projekat\ProdajaSladoleda\ProdajaSladoleda.DataAccess\obj\Debug\netcoreapp2.1\ProdajaSladoleda.DataAccess.dll
+D:\Skola\III godina\III trimestar\ASP\Prodaja sladoleda projekat\ProdajaSladoleda\ProdajaSladoleda.DataAccess\obj\Debug\netcoreapp2.1\ProdajaSladoleda.DataAccess.pdb

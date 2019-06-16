@@ -1,0 +1,10 @@
+D:\Skola\III godina\III trimestar\ASP\Prodaja sladoleda projekat\ProdajaSladoleda\ProdajaSladoleda.Domain\bin\Debug\netcoreapp2.1\ProdajaSladoleda.Domain.deps.json
+D:\Skola\III godina\III trimestar\ASP\Prodaja sladoleda projekat\ProdajaSladoleda\ProdajaSladoleda.Domain\bin\Debug\netcoreapp2.1\ProdajaSladoleda.Domain.runtimeconfig.json
+D:\Skola\III godina\III trimestar\ASP\Prodaja sladoleda projekat\ProdajaSladoleda\ProdajaSladoleda.Domain\bin\Debug\netcoreapp2.1\ProdajaSladoleda.Domain.runtimeconfig.dev.json
+D:\Skola\III godina\III trimestar\ASP\Prodaja sladoleda projekat\ProdajaSladoleda\ProdajaSladoleda.Domain\bin\Debug\netcoreapp2.1\ProdajaSladoleda.Domain.dll
+D:\Skola\III godina\III trimestar\ASP\Prodaja sladoleda projekat\ProdajaSladoleda\ProdajaSladoleda.Domain\bin\Debug\netcoreapp2.1\ProdajaSladoleda.Domain.pdb
+D:\Skola\III godina\III trimestar\ASP\Prodaja sladoleda projekat\ProdajaSladoleda\ProdajaSladoleda.Domain\obj\Debug\netcoreapp2.1\ProdajaSladoleda.Domain.csproj.CoreCompileInputs.cache
+D:\Skola\III godina\III trimestar\ASP\Prodaja sladoleda projekat\ProdajaSladoleda\ProdajaSladoleda.Domain\obj\Debug\netcoreapp2.1\ProdajaSladoleda.Domain.AssemblyInfoInputs.cache
+D:\Skola\III godina\III trimestar\ASP\Prodaja sladoleda projekat\ProdajaSladoleda\ProdajaSladoleda.Domain\obj\Debug\netcoreapp2.1\ProdajaSladoleda.Domain.AssemblyInfo.cs
+D:\Skola\III godina\III trimestar\ASP\Prodaja sladoleda projekat\ProdajaSladoleda\ProdajaSladoleda.Domain\obj\Debug\netcoreapp2.1\ProdajaSladoleda.Domain.dll
+D:\Skola\III godina\III trimestar\ASP\Prodaja sladoleda projekat\ProdajaSladoleda\ProdajaSladoleda.Domain\obj\Debug\netcoreapp2.1\ProdajaSladoleda.Domain.pdb

@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace ProdajaSladoleda.Application.Exceptions
+{
+    public class EntityNotFoundException : Exception
+    {
+        public EntityNotFoundException(string entity) : base($"{entity} does not exist.")
+        {
+
+        }
+        public EntityNotFoundException()
+        {
+
+        }
+    }
+}
